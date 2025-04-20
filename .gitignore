@@ -1,0 +1,59 @@
+# 操作系统生成的文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Unity 生成的文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# 资产导入设置
+*.asset.meta
+*.prefab.meta
+*.unity.meta
+*.mat.meta
+*.fbx.meta
+*.blend.meta
+*.png.meta
+*.jpg.meta
+*.psd.meta
+*.mp3.meta
+*.wav.meta
+
+# 特定于 Unity 的文件
+*.pidb
+*.mem
+*.unityproj
+*.sln
+*.csproj
+*.unitypackage
+*.manifest
+*.exe
+*.dll
+
+# Visual Studio 生成的文件
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.vspscc
+
+# Rider 生成的文件
+.idea/
+
+# MonoDevelop 生成的文件
+.monoDevelop/
+*.userprefs
+
+# 其他可能不需要的文件
+*.bak
+*.orig
+*.scc
+*.tmp
+*.lock    

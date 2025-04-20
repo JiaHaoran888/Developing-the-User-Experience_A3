@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BraveHeart/Scene/StartGame.unity
+    guid: 526c16039ca98fc4d93bcd35a105b7ed
+  - enabled: 1
+    path: Assets/BraveHeart/Scene/Level01.unity
+    guid: 660cda5302a7f984da55a3c4b9685f16
+  - enabled: 1
+    path: Assets/BraveHeart/Scene/Level02.unity
+    guid: 72ec9ab56851054409c4f13993a4d16f
+  - enabled: 1
+    path: Assets/BraveHeart/Scene/Level03.unity
+    guid: ae1cc5cb1b76b604eb22e08ac801549d
+  m_configObjects: {}
