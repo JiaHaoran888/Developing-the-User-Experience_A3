@@ -31,7 +31,7 @@ Desktop.ini
 *.unityproj
 *.sln
 *.csproj
-*.unitypackage
+
 *.manifest
 *.exe
 *.dll
