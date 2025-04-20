@@ -11,7 +11,9 @@ Desktop.ini
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
-
+[submodule "Level3"]
+    path = Level3
+    url = https://github.com/JiaHaoran888/Developing-the-User-Experience_A3.git
 # 资产导入设置
 *.asset.meta
 *.prefab.meta
